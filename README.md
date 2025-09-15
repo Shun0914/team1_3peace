@@ -111,7 +111,7 @@ streamlit run app.py
 - **Achievement**: 実績・バッジ
 
 ## 開発進捗
-- [GitHub Projects](リンクを後で追加)
+- [GitHub Projects](https://github.com/users/Shun0914/projects/4)
 - [要件定義書](./docs/requirements_definition.md)
 
 ## 困った時は
